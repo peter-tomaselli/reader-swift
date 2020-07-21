@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Prelude",
+        "repositoryURL": "https://github.com/peter-tomaselli/prelude",
+        "state": {
+          "branch": "master",
+          "revision": "395014cf5a0b7558248d94a9946396356599625f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
